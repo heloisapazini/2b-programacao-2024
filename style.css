@@ -3,8 +3,16 @@
     color: #d1b0f7
     display: flex; 
     justify-content: spece-around; 
+    align-item: center;
+    padding: 24px 0; 
 }
 
 .cabecalho-imagem {
     width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-black;
+    margin: 0 16px; 
+    font-size: 24px; 
 }
