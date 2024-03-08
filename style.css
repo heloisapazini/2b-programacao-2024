@@ -25,3 +25,8 @@
 .escola-imagem {
     width: 25%;
 }
+
+.escola {
+    background-image: linear-gradient(#bc1ccab2,#eb2ab1);
+    color:purple
+}
