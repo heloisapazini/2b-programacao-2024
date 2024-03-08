@@ -29,4 +29,16 @@
 .escola {
     background-image: linear-gradient(#d45bdfb2,#8e5aeece);
     color:purple
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.conteudo{
+    width:35%;
 }
